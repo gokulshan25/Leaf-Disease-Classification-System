@@ -16,6 +16,7 @@ NumPy
 Matplotlib
 
 ##Limitations
+
 Only binary classification (healthy/diseased)
 
 Works best with clear leaf images on plain backgrounds
