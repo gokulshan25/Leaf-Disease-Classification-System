@@ -15,10 +15,12 @@ OpenCV
 NumPy
 Matplotlib
 
-##Limitations
+## Limitations
 
 Only binary classification (healthy/diseased)
 
 Works best with clear leaf images on plain backgrounds
 
 Minimum recommended image size: 256x256 pixels
+
+
